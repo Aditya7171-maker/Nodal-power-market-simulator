@@ -199,5 +199,5 @@ MIT License — free to use, modify, and distribute with attribution.
 ---
 
 <div align="center">
-<sub>Built with PyPSA · Inspired by real Indian electricity market design · Data sourced from CERC, CEA, NTPC, and IEX public records</sub>
+<sub>Built with PyPSA · Inspired by real Indian electricity market design ·</sub>
 </div>
